@@ -16,22 +16,20 @@
 
 ---
 
-## `~/whoami`
+## 🖥️ whoami
 
-```bash
-$ cat sushanth.json
-```
+```text
+sushanth@github:~$ whoami
 
-```json
-{
-  "name": "Sushanth GS",
-  "role": "AI & Data Science Student",
-  "university": "REVA University, Bengaluru",
-  "program": "IGNITE Entrepreneurship",
-  "focus": ["Artificial Intelligence", "IoT & Hardware", "App Development", "Data Visualization"],
-  "currently": "Building, learning and shipping projects",
-  "open_to": ["Collaborations", "Hackathons", "Internships", "Cool ideas"]
-}
+  Name        : Sushanth GS
+  Role        : AI & Data Science Student
+  University  : REVA University, Bengaluru
+  Program     : IGNITE Entrepreneurship
+  Focus       : Artificial Intelligence | IoT & Hardware | App Development | Data Visualization
+  Currently   : Building, learning and shipping projects
+  Open to     : Collaborations | Hackathons | Internships | Cool ideas
+
+sushanth@github:~$ _
 ```
 
 ---
