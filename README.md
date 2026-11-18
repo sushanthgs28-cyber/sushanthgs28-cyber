@@ -16,10 +16,10 @@
 
 ---
 
-## 🖥️ whoami
+## 🖥️ Who Am I
 
 ```text
-sushanth@github:~$ whoami
+
 
   Name        : Sushanth GS
   Role        : AI & Data Science Student
@@ -29,7 +29,7 @@ sushanth@github:~$ whoami
   Currently   : Building, learning and shipping projects
   Open to     : Collaborations | Hackathons | Internships | Cool ideas
 
-sushanth@github:~$ _
+
 ```
 
 ---
